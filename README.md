@@ -1,3 +1,7 @@
+# Overview
+![Login Page](images/1.png)
+![Home Page](images/2.png)
+
 # Importing Libraries:
 The code imports necessary libraries such as Streamlit for creating web apps, Altair and Plotly Express for data visualization, pandas and numpy for data manipulation, joblib for loading a machine learning model, and hashlib for password hashing.
 
