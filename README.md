@@ -6,7 +6,9 @@ A machine learning model (mood_navigator.pkl) is loaded using joblib. This model
 
 # Defining Utility Functions:
 predict_emotions: This function takes text input and returns the predicted emotion.
+
 get_prediction_proba: This function returns the probability distribution of predicted emotions.
+
 Various functions related to database operations for user authentication and tracking user history.
 
 # Main Application:
