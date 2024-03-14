@@ -1,7 +1,7 @@
 # Installation
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/SannketNikam/Chatbot.git
+git clone https://github.com/xpert-codes/Mood-Navigator-Web-App-Using-Machine-Learning-in-Python.git
 ```
 
 2. Install the 'requirements.txt':
